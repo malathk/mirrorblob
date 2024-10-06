@@ -26,7 +26,7 @@ function draw() {
  
   //draw some geometry on screen
  
-sphere(width/5,200,200);
+sphere(width/2,200,200);
  
   
 }
