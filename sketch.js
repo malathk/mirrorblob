@@ -3,7 +3,7 @@ let noise;
 
 function preload(){
   myShader = loadShader("shader.vert","shader.frag");
-  noise = loadImage("mirrorwhite.png");
+  noise = loadImage("mirror.png");
   
 }
 function setup() {
